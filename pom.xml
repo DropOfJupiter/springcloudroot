@@ -8,5 +8,9 @@
     <artifactId>springconfigroot</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>eureka-server</module>
+    </modules>
+
 
 </project>
